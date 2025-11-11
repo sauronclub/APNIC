@@ -1,0 +1,10 @@
+{
+  "country_code": "AL",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.072479",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 1,
+  "cidrs": [
+    "2407:79c0::/123"
+  ]
+}

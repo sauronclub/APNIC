@@ -1,0 +1,17 @@
+{
+  "country_code": "WS",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.061053",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 8,
+  "cidrs": [
+    "2001:de8:8000::/122",
+    "2001:df1:4c40::/122",
+    "2001:df1:8780::/122",
+    "2001:df7:500::/122",
+    "2401:ae60::/123",
+    "2402:ae80::/123",
+    "2405:8c00::/123",
+    "2407:2800::/123"
+  ]
+}

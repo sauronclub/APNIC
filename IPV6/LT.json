@@ -1,0 +1,14 @@
+{
+  "country_code": "LT",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.067258",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 5,
+  "cidrs": [
+    "2001:df3:67c0::/122",
+    "2400:8e20::/123",
+    "2400:d360::/123",
+    "2400:d361::/123",
+    "2407:d140::/123"
+  ]
+}

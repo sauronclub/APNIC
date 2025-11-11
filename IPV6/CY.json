@@ -1,0 +1,12 @@
+{
+  "country_code": "CY",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.066153",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 3,
+  "cidrs": [
+    "2001:df1:8140::/122",
+    "2001:df4:fe40::/122",
+    "2401:fce0::/123"
+  ]
+}

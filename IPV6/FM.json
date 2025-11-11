@@ -1,0 +1,11 @@
+{
+  "country_code": "FM",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.072252",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2407:4800::/123",
+    "2407:5c40::/123"
+  ]
+}

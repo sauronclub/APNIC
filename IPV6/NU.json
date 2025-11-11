@@ -1,0 +1,11 @@
+{
+  "country_code": "NU",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.062306",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2001:df0:8c::/122",
+    "2402:1220::/123"
+  ]
+}

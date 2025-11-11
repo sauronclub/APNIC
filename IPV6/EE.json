@@ -1,0 +1,11 @@
+{
+  "country_code": "EE",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.070343",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2401:a860::/123",
+    "2401:eaa0::/123"
+  ]
+}

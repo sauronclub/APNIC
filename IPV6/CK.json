@@ -1,0 +1,11 @@
+{
+  "country_code": "CK",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.069577",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2401:4d20::/123",
+    "2407:5800::/123"
+  ]
+}

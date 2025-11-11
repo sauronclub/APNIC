@@ -1,0 +1,10 @@
+{
+  "country_code": "SI",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.069080",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 1,
+  "cidrs": [
+    "2400:52e0::/123"
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "country_code": "CH",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.065295",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2001:df0:de40::/122",
+    "2400:54a0::/123"
+  ]
+}

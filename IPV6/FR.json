@@ -1,0 +1,14 @@
+{
+  "country_code": "FR",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.062961",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 5,
+  "cidrs": [
+    "2001:df0:40c::/122",
+    "2001:df1:c200::/122",
+    "2001:df6:8d00::/122",
+    "2401:42a0::/123",
+    "2406:3bc0::/123"
+  ]
+}

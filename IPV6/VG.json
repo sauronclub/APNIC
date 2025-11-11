@@ -1,0 +1,11 @@
+{
+  "country_code": "VG",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.065497",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2001:df1:1f00::/122",
+    "2405:6e40::/123"
+  ]
+}

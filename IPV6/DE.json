@@ -1,0 +1,15 @@
+{
+  "country_code": "DE",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.063892",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 6,
+  "cidrs": [
+    "2001:df0:5500::/122",
+    "2001:df0:e940::/122",
+    "2001:df4:dd80::/122",
+    "2401:1580::/123",
+    "2402:1880::/123",
+    "2403:8300::/123"
+  ]
+}

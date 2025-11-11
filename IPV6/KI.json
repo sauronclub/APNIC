@@ -1,0 +1,12 @@
+{
+  "country_code": "KI",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.070548",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 3,
+  "cidrs": [
+    "2401:dfc0::/123",
+    "2402:1de0::/123",
+    "2406:cd00::/123"
+  ]
+}

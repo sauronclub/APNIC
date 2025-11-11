@@ -1,0 +1,11 @@
+{
+  "country_code": "TV",
+  "ip_type": "ipv6",
+  "updated_at": "2025-11-11T08:29:15.068853",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "2400:3500::/123",
+    "2401:c720::/123"
+  ]
+}
