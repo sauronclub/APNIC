@@ -1,0 +1,12 @@
+{
+  "country_code": "PA",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.040669",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 3,
+  "cidrs": [
+    "103.86.96.0/22",
+    "103.173.150.0/23",
+    "116.204.192.0/22"
+  ]
+}

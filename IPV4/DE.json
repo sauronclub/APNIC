@@ -1,0 +1,16 @@
+{
+  "country_code": "DE",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.026157",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 7,
+  "cidrs": [
+    "45.112.84.0/22",
+    "103.51.164.0/22",
+    "103.85.135.0/24",
+    "103.119.72.0/23",
+    "103.155.232.0/23",
+    "103.190.102.0/23",
+    "103.233.172.0/22"
+  ]
+}

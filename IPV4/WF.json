@@ -1,0 +1,12 @@
+{
+  "country_code": "WF",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.022352",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 3,
+  "cidrs": [
+    "27.125.192.0/22",
+    "103.235.110.0/23",
+    "117.20.32.0/21"
+  ]
+}

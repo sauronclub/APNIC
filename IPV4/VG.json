@@ -1,0 +1,13 @@
+{
+  "country_code": "VG",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.036260",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 4,
+  "cidrs": [
+    "45.253.248.0/21",
+    "103.92.130.0/24",
+    "103.144.140.0/23",
+    "138.99.216.0/22"
+  ]
+}

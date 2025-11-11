@@ -1,0 +1,16 @@
+{
+  "country_code": "NR",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.024362",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 7,
+  "cidrs": [
+    "43.230.6.0/24",
+    "103.20.124.0/24",
+    "103.36.150.0/23",
+    "103.49.173.0/24",
+    "103.49.174.0/23",
+    "203.98.224.0/19",
+    "203.190.216.0/24"
+  ]
+}

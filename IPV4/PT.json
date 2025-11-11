@@ -1,0 +1,10 @@
+{
+  "country_code": "PT",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.042007",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 1,
+  "cidrs": [
+    "103.156.50.0/23"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "country_code": "AE",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.024084",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 6,
+  "cidrs": [
+    "43.225.52.0/22",
+    "49.213.46.0/23",
+    "66.116.128.0/17",
+    "103.21.58.0/23",
+    "103.152.182.0/23",
+    "103.224.22.0/23"
+  ]
+}

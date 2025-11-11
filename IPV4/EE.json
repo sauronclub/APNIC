@@ -1,0 +1,11 @@
+{
+  "country_code": "EE",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.041500",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 2,
+  "cidrs": [
+    "103.140.186.0/23",
+    "160.22.180.0/23"
+  ]
+}

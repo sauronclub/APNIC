@@ -1,0 +1,10 @@
+{
+  "country_code": "TK",
+  "ip_type": "ipv4",
+  "updated_at": "2025-11-11T08:29:15.020647",
+  "source": "https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest",
+  "cidr_count": 1,
+  "cidrs": [
+    "27.96.24.0/21"
+  ]
+}
