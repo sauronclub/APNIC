@@ -1,0 +1,10 @@
+===== 2025-11-06 数据更新日志 =====
+数据来源: https://ftp.apnic.net/pub/stats/apnic/delegated-apnic-latest
+更新时间: 2025-11-06 16:35:13
+APNIC数据下载成功
+APNIC数据已保存到: g:\OneDrive\05-编程文件\apnic-ip-data\CIDR\2025-11-06.txt
+旧数据备份完成
+数据解析完成 - 总行数: 83054, 有效行数: 69776
+IPv4国家数: 79, IPv6国家数: 74
+数据文件生成完成
+已清理超过180天的历史数据和日志
